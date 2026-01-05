@@ -54,7 +54,7 @@ Built with PHP 8.3 and Laravel 11.
 - **Mnemonic Recovery**: Built-in mnemonic phrase generation for key recovery.
 - **No JavaScript**: Built entirely with pure PHP.
 <div align="center">
-    <h2>Special thanks goes to @sukunetsiz<a href="https://github.com/sukunetsiz"></h2>
+    <h2>Special thanks goes to @sukunetsiz</h2>
 </div>
 <div align="center">
     <h1>Screenshots</h1>
