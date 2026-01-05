@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am francesko004, the creator and developer of the PlugZone project. At the time of writing this message, I am alive, safe, have full access to the internet, and am acting of my own free will, without coercion or the influence of any substances.
+
+To demonstrate that this message is written by a real person and not generated automatically, I note recent global events currently being reported in international news, including major natural disasters causing significant humanitarian impact and ongoing political tensions in multiple regions that have led to public demonstrations and clashes with authorities.
+
+The creation of PlugZone was motivated by a desire to support privacy-focused technologies and to contribute positively to the broader ecosystem of anonymous digital commerce. PlugZone was not created for illegal purposes, nor is it intended to encourage or facilitate unlawful activity. Its sole aim is to provide a platform for the anonymous exchange of legal electronic products, respecting the privacy of both buyers and sellers.
+
+Privacy is a fundamental human right. It should be protected, respected, and upheld at all times, and its existence should never be treated as suspicious or illegitimate.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEE+BYCbeGmNGMQS0bkmPNXq82k28QFAmlcEXwACgkQmPNXq82k
+28RgZgf/eHnfDGYqOFs1ZMxzb9H3IlcUQT/ZhIh6wJd3WW43wOF0iBl/0ckrW98N
+aycyRkbKGO8T6h+Ke3YR1Hm7ksI+oaayofzXVjMZjgOPjS4Fd5BLhpP0f6tuSmlS
+KpY1/xR0Z6stgGa9XGL/hCoim6RAJkCiwvh/juUFYgI7iouO3yndu98cqhT8PfeH
+ikyI0GbRFBjU1WMkxTEb2UmUo5Ca5bkyBrwrzIiIvv9Qn5M2welLzKPyUOHJe5SI
+y9qCPDHElYwgeZgi6KIm5i1FXmrvXCUz5zsbA9fxrdwiqcvDGR9BpsLKvtWgeLM0
+cpSH8TR0Sr3X5ADSUN6cF84dRDS0xQ==
+=uC8V
+-----END PGP SIGNATURE-----

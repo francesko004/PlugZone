@@ -1,0 +1,237 @@
+
+   INFO  Seeding database.  
+
+Starting database seeding...
+  Database\Seeders\UserSeeder  RUNNING  
+Starting to seed roles and users...
+Admin and Vendor roles created successfully.
+Admin user created successfully:
+Username: user1
+Password: Admin123!
+Mnemonic: flat recycle history predict client kiwi onion duty poet frozen awake jar
+Reference ID: 8BN1I24EVX71X95E
+Role: Admin
+---
+Vendor user created successfully:
+Username: user2
+Password: Vendor123!
+Mnemonic: volume family debris veteran sausage knee sausage timber grid tuition day scatter
+Reference ID: Z22A509OXPA150MR
+Role: Vendor
+---
+Vendor user created successfully:
+Username: user3
+Password: ;DQNRw1d
+Mnemonic: guard genius profit agent door siege jewel click pair wild disorder typical
+Reference ID: I676AO15J1OR92OF
+Role: Vendor
+---
+Vendor user created successfully:
+Username: user4
+Password: -me~@89E
+Mnemonic: clown horror senior educate license quality help empty police wagon play bunker
+Reference ID: IH5LFO9518875PLX
+Role: Vendor
+---
+Regular user created successfully:
+Username: user5
+Password: PDd>.=8C
+Mnemonic: brave ridge cactus kitten fox result candy shine resemble sail grid subject
+Reference ID: 3I04SI4KHYJH3109
+Role: Regular User
+---
+Regular user created successfully:
+Username: user6
+Password: NoH!El_4
+Mnemonic: lunch domain glory birth verb alpha fame entry sight poverty session silver
+Reference ID: PI3603W5D52F5WAZ
+Role: Regular User
+---
+Regular user created successfully:
+Username: user7
+Password: .aMOO8-7
+Mnemonic: enforce jacket pencil hard nuclear month wet razor bar moral horse front
+Reference ID: Q5V6Q3V1M8W1A0E4
+Role: Regular User
+---
+Regular user created successfully:
+Username: user8
+Password: kDR!=ag4
+Mnemonic: inject certain orbit veteran gallery reflect ostrich disorder owner above ivory snow
+Reference ID: Z8KW32DN2W3I520E
+Role: Regular User
+---
+Regular user created successfully:
+Username: user9
+Password: AE:b5gOr
+Mnemonic: follow slender clock sign key crunch exhibit stadium salute wrestle inflict stool
+Reference ID: 00LH1XY7F1111XPJ
+Role: Regular User
+---
+Regular user created successfully:
+Username: user10
+Password: dby5F1x~
+Mnemonic: vendor nothing ramp stomach pen burst circle dwarf subject sauce brain few
+Reference ID: 1J60V8H1K68OUC5U
+Role: Regular User
+---
+Regular user created successfully:
+Username: user11
+Password: Wt3D>G<;
+Mnemonic: chaos find west latin cake together next inspire perfect ivory sport hurt
+Reference ID: NH5LJ583I14TZ4L3
+Role: Regular User
+---
+Regular user created successfully:
+Username: user12
+Password: 9/P*cxSD
+Mnemonic: favorite super ceiling goat brick high mail movie blue hover tattoo lift
+Reference ID: 0BW00J2QX3FGP418
+Role: Regular User
+---
+Regular user created successfully:
+Username: user13
+Password: L5>^l<i?
+Mnemonic: victory treat cook mountain short size job wisdom day matter brass lumber
+Reference ID: B01U1YK8B8R6W7B4
+Role: Regular User
+---
+Regular user created successfully:
+Username: user14
+Password: 5#q|UI|6
+Mnemonic: nominee hill iron grab oppose gadget rose loop avocado ocean salad gate
+Reference ID: GUTTP831Q1NU3617
+Role: Regular User
+---
+Regular user created successfully:
+Username: user15
+Password: WeQh,2]x
+Mnemonic: tower cancel reflect stairs flip taste beef hello magnet vast wise aisle
+Reference ID: 6ZC4MHLCP3S93448
+Role: Regular User
+---
+Regular user created successfully:
+Username: user16
+Password: 6dmfC=6`
+Mnemonic: journey clay oppose relief maid hole embody reopen candy envelope danger like
+Reference ID: Y4CG94Q26G2KC63A
+Role: Regular User
+---
+Seeding completed.
+Successfully created users: 16
+Failed to create users: 0
+  Database\Seeders\UserSeeder  2,807 ms DONE  
+
+  Database\Seeders\ProductSeeder  RUNNING  
+Starting to seed categories and products...
+Found 3 vendors. Creating products...
+Creating products for vendor: user2
+Created product: Smart Home Installation Package for vendor: user2
+Created product: Complete Web Development Course for vendor: user2
+Created product: Luxury Corner Sofa for vendor: user2
+Created product: Custom Gaming PC Setup for vendor: user2
+Finished creating products for vendor: user2
+---
+Creating products for vendor: user3
+Created product: Wireless Gaming Mouse for vendor: user3
+Created product: Adobe Creative Cloud 1-Year for vendor: user3
+Created product: Nike Air Max 2023 for vendor: user3
+Created product: Samsung Galaxy S23 Ultra for vendor: user3
+Finished creating products for vendor: user3
+---
+Creating products for vendor: user4
+Created product: Steam Gift Card $100 for vendor: user4
+Created product: Professional Camera Tripod for vendor: user4
+Created product: Garden Landscaping Service for vendor: user4
+Created product: Windows 11 Pro License Key for vendor: user4
+Finished creating products for vendor: user4
+---
+Product seeding completed.
+Successfully created products: 12
+Failed operations: 0
+  Database\Seeders\ProductSeeder  40 ms DONE  
+
+  Database\Seeders\ReviewSeeder  RUNNING  
+Starting to seed product reviews...
+Found 13 users and 12 products.
+Generating reviews...
+Creating 2 reviews for product: Smart Home Installation Package
+Created mixed review for product: Smart Home Installation Package by user: user5
+Created mixed review for product: Smart Home Installation Package by user: user13
+Finished creating reviews for product: Smart Home Installation Package
+---
+Creating 4 reviews for product: Complete Web Development Course
+Created positive review for product: Complete Web Development Course by user: user14
+Created positive review for product: Complete Web Development Course by user: user7
+Created positive review for product: Complete Web Development Course by user: user1
+Created positive review for product: Complete Web Development Course by user: user16
+Finished creating reviews for product: Complete Web Development Course
+---
+Creating 3 reviews for product: Luxury Corner Sofa
+Created mixed review for product: Luxury Corner Sofa by user: user10
+Created positive review for product: Luxury Corner Sofa by user: user16
+Created positive review for product: Luxury Corner Sofa by user: user1
+Finished creating reviews for product: Luxury Corner Sofa
+---
+Creating 2 reviews for product: Custom Gaming PC Setup
+Created positive review for product: Custom Gaming PC Setup by user: user5
+Created negative review for product: Custom Gaming PC Setup by user: user1
+Finished creating reviews for product: Custom Gaming PC Setup
+---
+Creating 5 reviews for product: Wireless Gaming Mouse
+Created positive review for product: Wireless Gaming Mouse by user: user14
+Created mixed review for product: Wireless Gaming Mouse by user: user16
+Created negative review for product: Wireless Gaming Mouse by user: user5
+Created negative review for product: Wireless Gaming Mouse by user: user7
+Created positive review for product: Wireless Gaming Mouse by user: user13
+Finished creating reviews for product: Wireless Gaming Mouse
+---
+Creating 5 reviews for product: Adobe Creative Cloud 1-Year
+Created positive review for product: Adobe Creative Cloud 1-Year by user: user9
+Created positive review for product: Adobe Creative Cloud 1-Year by user: user1
+Created positive review for product: Adobe Creative Cloud 1-Year by user: user5
+Created positive review for product: Adobe Creative Cloud 1-Year by user: user15
+Created positive review for product: Adobe Creative Cloud 1-Year by user: user14
+Finished creating reviews for product: Adobe Creative Cloud 1-Year
+---
+Creating 2 reviews for product: Nike Air Max 2023
+Created mixed review for product: Nike Air Max 2023 by user: user15
+Created mixed review for product: Nike Air Max 2023 by user: user7
+Finished creating reviews for product: Nike Air Max 2023
+---
+Creating 3 reviews for product: Samsung Galaxy S23 Ultra
+Created positive review for product: Samsung Galaxy S23 Ultra by user: user8
+Created positive review for product: Samsung Galaxy S23 Ultra by user: user11
+Created positive review for product: Samsung Galaxy S23 Ultra by user: user15
+Finished creating reviews for product: Samsung Galaxy S23 Ultra
+---
+Creating 2 reviews for product: Steam Gift Card $100
+Created positive review for product: Steam Gift Card $100 by user: user8
+Created positive review for product: Steam Gift Card $100 by user: user6
+Finished creating reviews for product: Steam Gift Card $100
+---
+Creating 4 reviews for product: Professional Camera Tripod
+Created positive review for product: Professional Camera Tripod by user: user9
+Created positive review for product: Professional Camera Tripod by user: user12
+Created positive review for product: Professional Camera Tripod by user: user13
+Created positive review for product: Professional Camera Tripod by user: user7
+Finished creating reviews for product: Professional Camera Tripod
+---
+Creating 3 reviews for product: Garden Landscaping Service
+Created negative review for product: Garden Landscaping Service by user: user16
+Created mixed review for product: Garden Landscaping Service by user: user13
+Created positive review for product: Garden Landscaping Service by user: user1
+Finished creating reviews for product: Garden Landscaping Service
+---
+Creating 3 reviews for product: Windows 11 Pro License Key
+Created positive review for product: Windows 11 Pro License Key by user: user9
+Created positive review for product: Windows 11 Pro License Key by user: user5
+Created positive review for product: Windows 11 Pro License Key by user: user1
+Finished creating reviews for product: Windows 11 Pro License Key
+---
+Review seeding completed.
+Successfully created reviews: 38
+Failed operations: 0
+  Database\Seeders\ReviewSeeder  163 ms DONE  
+
+Database seeding completed successfully.
