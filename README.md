@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="docs/INSTALLATION.md">Installation Guide</a></h1>
+  <h1>d<a href="ocs/INSTALLATION.md">Installation Guide</a></h1>
 </div>
 
 <div align="center">
@@ -53,7 +53,9 @@ Built with PHP 8.3 and Laravel 11.
 - **Two-Factor Authentication**: Enhanced security through PGP-based 2FA.
 - **Mnemonic Recovery**: Built-in mnemonic phrase generation for key recovery.
 - **No JavaScript**: Built entirely with pure PHP.
-
+<div align="center">
+    <h2>Special thanks goes to @sukunetsiz<a href="https://github.com/sukunetsiz"></h2>
+</div>
 <div align="center">
     <h1>Screenshots</h1>
 </div>
