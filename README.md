@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>d<a href="docs/INSTALLATION.md"> Installation Guide </a></h1>
+  <h1><a href="docs/INSTALLATION.md"> Installation Guide </a></h1>
 </div>
 
 <div align="center">
